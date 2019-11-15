@@ -1,0 +1,17 @@
+{
+     "type": "record",
+     "namespace": "com.schema.account",
+     "name": "Account",
+     "version": "1",
+     "fields": [
+       { "name": "account", "type": "string", "doc": "account number" },
+       { "name": "name", "type": "string", "doc": "account holder name" },
+       { "name": "country", "type": "string", "doc": "account holder name" },
+       { "name": "address", "type": "string", "doc": "account holder name" },
+       { "name": "city", "type": "string", "doc": "account holder name" },
+       { "name": "postcode", "type": "string", "doc": "account holder name" }
+     ]
+}
+
+
+    
